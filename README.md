@@ -1,6 +1,6 @@
 # Intern Task1
 
-### Develop a responsive web page for creating a functional "TO-DO App” using HTML, and CSS.
+### Develop a responsive web page for the VeriTech Member Page using HTML, and CSS.
 
 ### How to run this project:
 
